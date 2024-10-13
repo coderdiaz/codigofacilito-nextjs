@@ -11,9 +11,9 @@
   },
   "dependencies": {
     "clsx": "2.1.1",
-    "next": "14.2.11",
-    "react": "18.3.1",
-    "react-dom": "18.3.1",
+    "next": "^15.0.0-canary.186",
+    "react": "^19.0.0-rc-09111202-20241011",
+    "react-dom": "^19.0.0-rc-09111202-20241011",
     "tailwind-merge": "2.5.2"
   },
   "devDependencies": {
